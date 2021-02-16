@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { HeaderStateService } from './state/header-state.service';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'portal-tech';
+  constructor(public readonly headerState: HeaderStateService){}
 }
