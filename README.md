@@ -1,6 +1,4 @@
-# PortalTech
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.0-rc.1.
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b2f1cee7fe094bcf8ff37c7b69f74fef-with-play.gif">
 
 ## Development server
 
