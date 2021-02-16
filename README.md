@@ -1,4 +1,4 @@
-<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b2f1cee7fe094bcf8ff37c7b69f74fef-with-play.gif">
+<img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/62b9449bd9694e67a92bc5089f1bb436-with-play.gif">
 
 ## Development server
 
